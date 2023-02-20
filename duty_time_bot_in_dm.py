@@ -57,4 +57,4 @@ async def on_message(message):
         # Send a confirmation message to the Discord user
         await message.channel.send(f'Your on duty time is {on_duty} and off duty time is {off_duty}. This has been recorded in WordPress.')
 
-client.run('MTA3NjcyMDA1MzU5ODMxMDQyMQ.GCscol.xD_WqrRFvjt90ud5pCLEEdX_WpfuUAU8euY6o0')
+client.run('BOT TOKEN HERE')
